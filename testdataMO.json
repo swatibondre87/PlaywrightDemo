@@ -1,0 +1,14 @@
+{
+    "username":"mukesh@gmail.com",
+    "password":"admin@123",
+    "name": "Mukesh",
+    "Interests":["C#","Tosca","Python","Shubh test"],
+    "Gender":"Male",
+    "State": "Select State",
+    "address":
+    {
+        "area":"NZ",
+        "city":"Auckland",
+        "pincode":1010
+    }
+}
